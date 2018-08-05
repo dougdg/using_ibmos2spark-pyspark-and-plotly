@@ -1,4 +1,4 @@
-# Integrating IBM Cloud Object Storage and Apache Spark with Jupyter Notebooks in Watson Studio using the ibmos2spark python package.
+# Integrating IBM Cloud Object Storage and Apache Spark with Jupyter Notebooks using the ibmos2spark python package.
 
 ## Introduction
 This repository contains a jupyter notebook (two versions that differ only in language) that demonstrate how to use the ibmos2spark python package with IBM Cloud Object Storage service and Apache Spark. 
