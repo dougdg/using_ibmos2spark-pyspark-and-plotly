@@ -1,4 +1,4 @@
-# Integrating IBM Cloud Object Storage and Apache Spark and Creating Visualisations with Pandas and Plotly
+# Integrating IBM Cloud Object Storage and Apache Spark, and also Creating Visualisations with Pandas and Plotly
 
 ## Introduction
 This repository contains a jupyter notebook (two versions that differ only in language) that demonstrate how to use the ibmos2spark python package with IBM Cloud Object Storage service and Apache Spark. 
